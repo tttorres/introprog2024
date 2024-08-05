@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/c4a49edc-a625-4046-89e9-928dac19df88)![image](https://github.com/user-attachments/assets/65d7bb2b-5a52-453f-8507-dd3955628621)---
 layout: page
 title: Programa
 subtitle: Introdução à Programação de Computadores para Biologia
