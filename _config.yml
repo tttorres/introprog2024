@@ -14,7 +14,7 @@ baseurl: "/introprog2021"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: BIO0454 / BIO5793 2021
+title: BIO0454 / BIO5793 2024
 
 # Short description of your site
 description: Introdução à Programação de Computadores para Biologia
@@ -27,22 +27,22 @@ navbar-links:
   Programa: "programa/"
   Proposta: "proposta/"
   Aulas:
-    - Aula01: "2021-08-19-Aula01/"
-    - Aula02: "2021-08-26-Aula02/"
-    - Aula03: "2021-09-02-Aula03/"
-    - Aula04: "2021-09-09-Aula04/"
-    - Aula05: "2021-09-16-Aula05/"
-    - Aula06: "2021-09-23-Aula06/"
-    - Aula07: "2021-09-30-Aula07/"
-    - Aula08: "2021-10-07-Aula08/"
-    - Aula09: "2021-10-14-Aula09/"
-    - Aula10: "2021-10-21-Aula10/"
-    - Aula11: "2021-10-28-Aula11/"
-    - Aula12: "2021-11-04-Aula12/"
-    - Aula13: "2021-11-11-Aula13/"
-    - Aula14: "2021-11-18-Aula14/"
-    - Aula15: "2021-11-25-Aula15/"
-    - Aula16: "2021-12-02-Aula16/"
+    - Aula01: "2024-08-06-Aula01/"
+#    - Aula02: "2021-08-26-Aula02/"
+#    - Aula03: "2021-09-02-Aula03/"
+#    - Aula04: "2021-09-09-Aula04/"
+#    - Aula05: "2021-09-16-Aula05/"
+#    - Aula06: "2021-09-23-Aula06/"
+#    - Aula07: "2021-09-30-Aula07/"
+#    - Aula08: "2021-10-07-Aula08/"
+#    - Aula09: "2021-10-14-Aula09/"
+#    - Aula10: "2021-10-21-Aula10/"
+#    - Aula11: "2021-10-28-Aula11/"
+#    - Aula12: "2021-11-04-Aula12/"
+#    - Aula13: "2021-11-11-Aula13/"
+#    - Aula14: "2021-11-18-Aula14/"
+#    - Aula15: "2021-11-25-Aula15/"
+#    - Aula16: "2021-12-02-Aula16/"
     
   Ementa: "ementa/"
   
