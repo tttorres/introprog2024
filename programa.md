@@ -1,6 +1,8 @@
+---
 layout: page
 title: Programa
 subtitle: Introdução à Programação de Computadores para Biologia
+#image: /img/hello_world.jpeg
 ---
 
 
