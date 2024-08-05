@@ -5,9 +5,11 @@ subtitle: Introdução à Programação de Computadores para Biologia
 ---
 
 
-## 2o semestre de 2021
+## 2o semestre de 2024
 
-**Horário:**    Quinta-Feira – 19:00 às 21:00 horas          
+**Horário:**    Terça-Feira – 10:00 às 12:00 horas
+
+**Local:**    Sala de multimídia ou sala 05 - Centro didático  
                                
 **Professora:** Tatiana Teixeira Torres, e-mail: tttorres(bio)ib.usp.br
 
