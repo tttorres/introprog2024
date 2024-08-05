@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/c4a49edc-a625-4046-89e9-928dac19df88)![image](https://github.com/user-attachments/assets/65d7bb2b-5a52-453f-8507-dd3955628621)---
 layout: page
 title: Programa
 subtitle: Introdução à Programação de Computadores para Biologia
@@ -12,29 +12,29 @@ subtitle: Introdução à Programação de Computadores para Biologia
 **Local:**    Sala de multimídia ou sala 05 - Centro didático  
                                
 **Professora:** Tatiana Teixeira Torres, e-mail: tttorres(bio)ib.usp.br
-
 OBS: substituir (bio) por @ 
 
 ## Programa:
 
 | Aula | Data  | Tema                                            |
 |------|-------|-------------------------------------------------|
-| 1    | 19/08 | Apresentação da disciplina                      |
-| 2    | 26/08 | Introdução à Programação / Bash                 |
-| 3    | 02/09 | Bash (continuação) / Algoritmos                 |
-| 4    | 09/09 | Introdução ao Perl / Variáveis e tipos de dados |
-| 5    | 16/09 | Arrays e Hashes                                 |
-| 6    | 23/09 | Estruturas de controle: condicionais            |
-| 7    | 30/09 | Estruturas de controle: loops I                 |
-| 8    | 07/10 | Estruturas de controle: loops II                |
-| 9    | 14/10 | Manipulação de arquivos I                       |
-| 10   | 21/10 | Manipulação de arquivos II                      |
-| :x:  | 28/10 | Dia do servidor público. Não haverá aula        |
-| 11   | 04/11 | Manipulação de strings e expressões regulares   |
-| 12   | 11/11 | Subrotinas                                      |
-| 13   | 18/11 | Módulos I: introdução e CPAN                    |
-| 14   | 25/11 | Módulos II: BioPerl                             |
-| 15   | 02/12 | Revisão e encerramento da disciplina            |
+| 1    | 06/08 | Apresentação da disciplina                      |
+| 2    | 13/08 | Introdução à Programação / Bash                 |
+| 3    | 20/08 | Bash (continuação) / Algoritmos                 |
+| :x:  | 27/08 | Não haverá aula                                 |
+| :x:  | 03/09 | Não haverá aula                                 |
+| 4    | 10/09 | Introdução ao Perl / Variáveis e tipos de dados |
+| 5    | 17/09 | Arrays e Hashes                                 |
+| 6    | 24/09 | Estruturas de controle: condicionais            |
+| 7    | 01/10 | Estruturas de controle: loops I                 |
+| 8    | 08/10 | Estruturas de controle: loops II                |
+| 9    | 15/10 | Manipulação de arquivos I                       |
+| 10   | 22/10 | Manipulação de arquivos II                      |
+| 11   | 29/10 | Manipulação de strings e expressões regulares   |
+| 12   | 05/11 | Subrotinas                                      |
+| 13   | 12/11 | Módulos I: introdução e CPAN                    |
+| 14   | 19/11 | Módulos II: BioPerl                             |
+| 15   | 03/12 | chatGPT e programação, revisão e encerramento   |
 
   
 
