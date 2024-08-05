@@ -25,7 +25,7 @@ description: Introdução à Programação de Computadores para Biologia
 navbar-links:
   Home: "index.html"
   Programa: "programa/"
-  Proposta: "proposta/"
+#  Proposta: "proposta/"
   Aulas:
     - Aula01: "2024-08-06-Aula01/"
 #    - Aula02: "2021-08-26-Aula02/"
