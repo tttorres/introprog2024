@@ -13,6 +13,7 @@ subtitle: Introdução à Programação de Computadores para Biologia
 **Local:**    Sala de multimídia ou sala 05 - Centro didático  
                                
 **Professora:** Tatiana Teixeira Torres, e-mail: tttorres(bio)ib.usp.br
+
 OBS: substituir (bio) por @ 
 
 ## Programa:
