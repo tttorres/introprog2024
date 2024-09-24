@@ -1,6 +1,6 @@
 ---
 layout: post
-title: codigo_genetico
+title: Código genético
 #image: /img/hello_world.jpeg
 ---
 # Código genético em hash 
