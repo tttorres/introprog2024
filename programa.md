@@ -18,25 +18,25 @@ OBS: substituir (bio) por @
 
 ## Programa:
 
-| Aula | Data  | Tema                                            |
-|------|-------|-------------------------------------------------|
-| 1    | 06/08 | Apresentação da disciplina                      |
-| 2    | 13/08 | Introdução à Programação / Bash                 |
-| 3    | 20/08 | Bash (continuação) / Algoritmos                 |
-| :x:  | 27/08 | Não haverá aula                                 |
-| :x:  | 03/09 | Não haverá aula                                 |
-| 4    | 10/09 | Introdução ao Perl / Variáveis e tipos de dados |
-| 5    | 17/09 | Arrays e Hashes                                 |
-| 6    | 24/09 | Estruturas de controle: condicionais            |
-| 7    | 01/10 | Estruturas de controle: loops I                 |
-| 8    | 08/10 | Estruturas de controle: loops II                |
-| 9    | 15/10 | Manipulação de arquivos I                       |
-| 10   | 22/10 | Manipulação de arquivos II                      |
-| 11   | 29/10 | Manipulação de strings e expressões regulares   |
-| 12   | 05/11 | Subrotinas                                      |
-| 13   | 12/11 | Módulos I: introdução e CPAN                    |
-| 14   | 19/11 | Módulos II: BioPerl                             |
-| 15   | 03/12 | chatGPT e programação, revisão e encerramento   |
+| Aula | Data  | Tema                                             |
+|------|-------|--------------------------------------------------|
+| 1    | 06/08 | Apresentação da disciplina                       |
+| 2    | 13/08 | Introdução à Programação / Bash                  |
+| 3    | 20/08 | Bash (continuação) / Algoritmos                  |
+| :x:  | 27/08 | Não haverá aula                                  |
+| :x:  | 03/09 | Não haverá aula                                  |
+| 4    | 10/09 | Introdução ao Perl / Variáveis e tipos de dados  |
+| 5    | 17/09 | Arrays e Hashes                                  |
+| 6    | 24/09 | Estruturas de controle: condicionais             |
+| 7    | 01/10 | Estruturas de controle: loops I                  |
+| 8    | 08/10 | Estruturas de controle: loops II                 |
+| 9    | 15/10 | Manipulação de arquivos I                        |
+| 10   | 22/10 | Manipulação de strings e expressões regulares I  |
+| 11   | 29/10 | Manipulação de strings e expressões regulares II |
+| 12   | 05/11 | Subrotinas                                       |
+| 13   | 12/11 | Módulos I: introdução e CPAN                     |
+| 14   | 19/11 | Módulos II: BioPerl                              |
+| 15   | 03/12 | chatGPT e programação, revisão e encerramento    |
 
   
 
