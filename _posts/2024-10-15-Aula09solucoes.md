@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aula 09
+title: Aula 09 com soluções
 #image: /img/hello_world.jpeg
 ---
 # Exercícios (algoritmos e programação)
