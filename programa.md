@@ -29,8 +29,8 @@ OBS: substituir (bio) por @
 | 5    | 17/09 | Arrays e Hashes                                  |
 | 6    | 24/09 | Estruturas de controle: condicionais             |
 | 7    | 01/10 | Estruturas de controle: loops I                  |
-| 8    | 08/10 | Estruturas de controle: loops II                 |
-| 9    | 15/10 | Manipulação de arquivos I                        |
+| 8    | 08/10 | Entrada e saída (input & output)                 |
+| 9    | 15/10 | Exercícios                                       |
 | 10   | 22/10 | Manipulação de strings e expressões regulares I  |
 | 11   | 29/10 | Manipulação de strings e expressões regulares II |
 | 12   | 05/11 | Subrotinas                                       |
