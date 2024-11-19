@@ -33,10 +33,10 @@ OBS: substituir (bio) por @
 | 9    | 15/10 | Exercícios                                       |
 | 10   | 22/10 | Manipulação de strings e expressões regulares I  |
 | 11   | 29/10 | Manipulação de strings e expressões regulares II |
-| 12   | 05/11 | Subrotinas                                       |
-| 13   | 12/11 | Módulos I: introdução e CPAN                     |
-| 14   | 19/11 | Módulos II: BioPerl                              |
-| 15   | 03/12 | chatGPT e programação, revisão e encerramento    |
+| 12   | 05/11 | Subrotinas I                                     |
+| 13   | 12/11 | Subrotinas II                                    |
+| 14   | 19/11 | Módulos I: introdução e CPAN                     |
+| 15   | 26/12 | Módulos II: BioPerl; chatGPT e programação       |
 
   
 
