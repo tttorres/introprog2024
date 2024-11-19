@@ -36,7 +36,7 @@ OBS: substituir (bio) por @
 | 12   | 05/11 | Subrotinas I                                     |
 | 13   | 12/11 | Subrotinas II                                    |
 | 14   | 19/11 | Módulos I: introdução e CPAN                     |
-| 15   | 26/12 | Módulos II: BioPerl; chatGPT e programação       |
+| 15   | 26/11 | Módulos II: BioPerl; chatGPT e programação       |
 
   
 
